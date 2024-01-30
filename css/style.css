@@ -19,8 +19,8 @@ table{
   border-color: #d2d2d2;
 
 }
-table th:first-child{
-  background-color: rgb(222, 222, 222);
+table td:first-child{
+  background-color: rgba(222, 222, 222, 0.3);
   border-collapse: separate;
 }
 table tr:first-child>*{
