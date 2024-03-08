@@ -34,6 +34,31 @@ table th,table td{
   padding: 5px 0;
   text-align: center;
 }
+.th1{
+  width: 20%;
+}
+.th2{
+  width: 60%;
+}
+.th3{
+  width: 20%;
+}
 table tr:nth-child(odd){
   background-color: #eee
+}
+.tdhr{
+  border-color: #ffffff;
+}
+.a_none{
+  text-decoration: none;
+}
+button{
+  border-radius: 100px;
+  border-color: rgb(60, 140, 233);
+  border-width: 4px;
+  background-color: rgb(60, 140, 233);
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: bold;
+  box-shadow: 0px 0px 4px 1px rgb(171, 171, 171);
 }
